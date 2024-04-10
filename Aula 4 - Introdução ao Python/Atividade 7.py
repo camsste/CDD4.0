@@ -2,10 +2,10 @@
 
 soma = 0
 c = 0
-alunos = float(input("Digite o Número de Alunos da Sua Sala: "))
+alunos = float(input("Digite o número de alunos da sua sala: "))
 
 while alunos > c:
-    a = float(input("Digite As Notas:"))
+    a = float(input("Digite as notas: "))
     soma = soma + a
     c = c + 1
 
